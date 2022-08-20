@@ -1,0 +1,21 @@
+body {
+  padding: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: lightgray;
+}
+
+input {
+  width: 150px;
+}
+
+button {
+  font-weight: bold;
+}
+
+#imc-result {
+  font-weight: bold;
+}
+
+#imc-table {
+  font-weight: bold;
+}
